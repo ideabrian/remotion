@@ -50,7 +50,7 @@ yarn create video
   </TabItem>
 </Tabs>
 
-That's it! Wait for the installation to be finished and follow the instructions in the terminal.
+That's it! Wait for the installation to finish then follow the instructions in the terminal.
 
 ### Additional step for Linux users
 
@@ -89,9 +89,9 @@ Got instructions for more Linux distributions? [Add them to this page](https://g
 
 ## FFmpeg requirement
 
-Remotion requires `ffmpeg` and `ffprobe` binaries (minimum version 4.1) to render videos.  
+Remotion requires the `ffmpeg` and `ffprobe` binaries (minimum version 4.1) to render videos.  
 If you don't have them, [Remotion will try to install FFmpeg for you](/docs/ffmpeg).
 
 ## Installation in existing projects
 
-If you already have a project you want to install Remotion in, don't use the instructions on this page. Instead, check out: [Installation in existing projects](/docs/brownfield)
+To install Remotion in an existing project, use the instructions on this page instead: [Installation in existing projects](/docs/brownfield)
