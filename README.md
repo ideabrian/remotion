@@ -47,7 +47,7 @@ If you already have Node.JS installed, type
 npm init video
 ```
 
-to get started. Otherwise, read the [installation page](https://www.remotion.dev/docs/) in the documentation.
+to get started. Otherwise, read the [installation page](https://www.remotion.dev/docs/).
 
 ## Documentation
 
@@ -56,8 +56,8 @@ API Reference: [**remotion.dev/api**](https://www.remotion.dev/api)
 
 ## License
 
-Be aware of that Remotion has a special license and requires obtaining a company license in some cases. Read the [LICENSE](LICENSE.md) page for more information.
+Be aware: Remotion has a special, dual license. A company may require a license in some cases. Read the [LICENSE](LICENSE.md) page for more information.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn about contributing to this project.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to this project.
